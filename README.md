@@ -1,10 +1,8 @@
 <div align="center">
 
-# Text Menu with HTML & CSS | Crimson
+# Hover Animation on Color Menu with HTML/CSS | Crimson
 
-### <a href="http://menu3.netlify.app"> link </a>
-
-<img src="admin/menu.gif">
+<img src="admin/base.png">
 
 ### by <a href="https://github.com/guli2103"> Gulbahor </a>
 
